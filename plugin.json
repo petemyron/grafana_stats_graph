@@ -1,12 +1,12 @@
 {
   "type": "panel",
-  "name": "Graph",
-  "id": "graph",
+  "name": "Stats and Graph",
+  "id": "stats_graph",
 
   "info": {
     "author": {
-      "name": "Grafana Project",
-      "url": "http://grafana.org"
+      "name": "Pete Myron",
+      "url": "https://github.com/pmyron/something"
 },
     "logos": {
       "small": "img/icn-graph-panel.svg",
